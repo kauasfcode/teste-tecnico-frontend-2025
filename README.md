@@ -9,11 +9,14 @@ Teste técnico para a posição de Frontend Dev. Edição do primeiro trimestre 
 
   
 ## Estrutura de pastas
+
+```
 📦src
- ┣ 📂components      → Componentes reutilizáveis da UI
- ┣ 📂services        → Serviços de API e localStorage
- ┣ 📂interfaces      → Tipagens TypeScript
- ┗ 📜App.tsx         → Componente principal da aplicação
+ ┣ 📂components     → Componentes reutilizáveis da UI
+ ┣ 📂services       → Serviços de API e localStorage
+ ┣ 📂interfaces     → Tipagens TypeScript
+ ┗ 📜App.tsx        → Componente principal da aplicação
+```
 
 
 ## 🚀 Como rodar o projeto
